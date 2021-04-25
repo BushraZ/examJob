@@ -1,0 +1,15 @@
+.search-bar {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  max-width: 1220px; 
+  margin: 0 auto 10px auto; 
+  background-color: #efefefd1;
+  padding: 10px 30px;
+}
+
+.input-group{
+  display: flex;
+  justify-content: space-between;
+  width:36%;
+}

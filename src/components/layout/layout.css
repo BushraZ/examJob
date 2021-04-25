@@ -1,0 +1,17 @@
+.header{
+    background-color: #ff6500;
+    
+}
+
+.header-content{
+    padding: 10px;   
+    display: flex !important;
+}
+
+.job-logo{
+    width:60px;
+    height: 60px;
+    margin-right: 30px;
+    margin-left: 30px;
+    border-radius: 50%;
+}
